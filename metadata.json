@@ -1,0 +1,6 @@
+{
+  "name": "Hyper OS",
+  "description": "A futuristic, fully-functional and interactive concept operating system emulator styled with modern Fluent concepts, custom floating windows, live widgets, security dashboards, file explorers, and deep Hyper AI integrations by Nebula Dynamics (TCN™).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
